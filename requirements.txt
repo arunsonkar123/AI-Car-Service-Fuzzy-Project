@@ -4,3 +4,4 @@ langchain-groq
 scikit-fuzzy==0.5.0
 scipy==1.15.3
 numpy==2.2.6
+networkx
