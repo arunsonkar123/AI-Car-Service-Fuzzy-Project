@@ -274,15 +274,4 @@ This project was developed as an individual academic project demonstrating the i
 
 The system demonstrates how natural-language understanding can be combined with a fuzzy inference system to generate a car-service recommendation.
 
-````
 
-**Ye wala use karo.**  
-`README.md` → **Ctrl+A → Delete → paste → Ctrl+S**.
-
-Phir Git commands:
-
-```bash
-git add README.md
-git commit -m "Update project README"
-git push
-````
